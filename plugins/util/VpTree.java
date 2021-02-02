@@ -11,7 +11,6 @@ import static java.lang.Math.max;
  *
  * @author Toshiba
  */
-//holaaa
 public class VpTree {
     
     Node root;
